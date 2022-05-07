@@ -1,0 +1,1 @@
+export const GET_ADOPT = "GET_ADOPT"
